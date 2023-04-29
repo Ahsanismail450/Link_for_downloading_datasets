@@ -12,7 +12,8 @@ https://sites.google.com/site/adecorpus/
 
 SMM4H_Dataset
 https://sites.google.com/site/adecorpus/
-BraTS
+
+BraTS_Dataset
 https://www.med.upenn.edu/cbica/brats2020
-SRI24
+SRI24_Dataset
 https://www.nitrc.org/projects/sri24
